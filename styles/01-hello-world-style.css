@@ -1,0 +1,25 @@
+* {
+	border: 1px solid green;
+}
+p {
+	color: orange;
+}
+
+* {
+   font-family: Arial;
+}
+
+div {
+   font-size: 2em
+}
+p {
+   font-size: 1.5em
+}
+
+.important_elemetn{
+   color: red;
+}
+
+#div1{
+   color: purple;
+}
